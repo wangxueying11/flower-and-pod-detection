@@ -34,7 +34,7 @@ Download link of soybean flower and pod dataset: https://pan.baidu.com/s/1j-ZE6B
 Password：ate8  
 If you want to use this dataset, please add the corresponding reference or contact us.
 # Soybean-pods-Detection
-Soybean pod related programs to find on the fly paddle frame
-
+Soybean pod related programs to find on the fly paddle frame.https://github.com/PaddlePaddle/PaddleDetection.
+Too big to pass up here.
 
 
