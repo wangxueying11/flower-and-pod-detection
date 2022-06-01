@@ -35,6 +35,6 @@ Password：ate8
 If you want to use this dataset, please add the corresponding reference or contact us.
 # Soybean-pods-Detection
 Soybean pod related programs to find on the fly paddle frame.https://github.com/PaddlePaddle/PaddleDetection.
-Too big to pass up here.
+Too big to pass up here.Proses instalasi untuk kerangka kerja paddle didokumentasikan secara rinci dalam Flying Paddle dan dapat dikonfigurasi dengan mengikuti langkah-langkah yang relevan.
 
 
